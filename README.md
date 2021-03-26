@@ -1,6 +1,6 @@
 # VBA-challenge
 
-All Three years can be run with the same code
+All Three years can be run with the same code individually
 
 This file first defines the headers.
 Then it declares the variables.
