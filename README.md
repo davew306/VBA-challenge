@@ -1,6 +1,6 @@
 # VBA-challenge
 
-The bas file contains a macro that automates an analysis of stock market data from 3 years
+The basic file contains a macro that automates an analysis of stock market data from 3 years
 
 The alphabetical testing file included is a sample testing data set, as the main testing dataset was unable to be uploaded by file size limits
 
