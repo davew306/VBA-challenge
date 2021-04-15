@@ -2,7 +2,7 @@
 
 The basic file contains a macro that automates an analysis of stock market data.
 
-The alphabetical testing file included is a sample testing data set, as the main testing 3yr dataset was unable to be uploaded by file size limits
+The alphabetical testing file included is a sample testing data set, as the main testing 3 yr dataset was unable to be uploaded by file size limits
 
 
 This file first defines the headers.
