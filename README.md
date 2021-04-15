@@ -2,7 +2,8 @@
 
 The bas file contains a macro that automates an analysis of stock market data from 3 years
 
-All Three years can be run with the same code individually
+The testing file included is a sample testing data set, as the main testing dataset was unable to be uploaded by file size limits
+
 
 This file first defines the headers.
 Then it declares the variables.
